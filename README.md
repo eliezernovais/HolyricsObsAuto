@@ -1,0 +1,2 @@
+Um Console App feito para integração do Holyrics no OBS, ele vai detectar usando o link que recebe as letras, se está sendo mandado um Versiculo ou um Hino, e vai automaticamente ativar e desativar o grupo relacionado
+É bom para usar com animação de fundo da letra, para algo mais profissional, esta é a primeira versao, ainda irei aprimorar para ter interface, mas acredito que vou ter que mudar 80% do codigo, mas a logica está pronta e funcional usando console
